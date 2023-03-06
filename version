@@ -1,0 +1,14 @@
+ID: pm_notif
+Name: Уведомления ЛС
+Version: 0.1
+Acts: ppages, index
+File: pm_notif.php
+Config: config.php
+Type: plugin
+Title: Уведомления ЛС
+Description: Оповещение пользователя о новых ЛС
+Author: KachalkinGeorg
+Author_URI: 
+Icon: <i class='fa fa-comment-o fa-2x'></i>
+preinstall: no
+Information: Информирование пользователя о новых личных сообщениях.
